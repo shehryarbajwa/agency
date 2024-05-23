@@ -1,0 +1,22 @@
+[
+  {
+    "page": 0,
+    "header": "We built",
+    "link": "#",
+    "namelink": "Quill",
+    "endTitle": "'s web app using TailwindCSS, React, TypeScript, Prisma, Postgres, GPT-4, Next.js",
+    "src": "/assets/works/quill.png",
+    "alt": "Quill"
+  },
+  {
+    "page": 1,
+    "header": "We made",
+    "link": "#",
+    "namelink": "Barfi",
+    "endTitle": "'s web app.\nUsing Shopify, JavaScript and PHP",
+    "src": "/assets/works/barfi.png",
+    "width": 3300,
+    "height": 3300,
+    "alt": "Barfi"
+  }
+]
